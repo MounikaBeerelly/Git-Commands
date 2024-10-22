@@ -1,0 +1,5 @@
+Snyk execution in local:
+- install snyk cli in local
+- snyk-win.exe
+- Snyk auth
+- Snyk test
